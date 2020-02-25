@@ -11,6 +11,8 @@ import Map from './containers/Map';
 import Call from './containers/Call';
 import Info from './containers/Info';
 
+import 'bootstrap/dist/css/bootstrap.css'
+
 
 
 
